@@ -1,0 +1,5 @@
+git config --global user.name abruzzisz
+git config --global user.email abruzzijulia69@gmail.com
+  
+-- Criar um projeto React Native Expo
+npx create-expo-app@latest calculadora --template blank
