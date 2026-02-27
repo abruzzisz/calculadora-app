@@ -3,3 +3,10 @@ git config --global user.email abruzzijulia69@gmail.com
   
 -- Criar um projeto React Native Expo
 npx create-expo-app@latest calculadora --template blank
+
+-- Resturar o projeto (Toda vez que fiz um clone)
+cd calculadora
+npm i
+
+ -- Executar o projeto
+ npx 
