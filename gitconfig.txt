@@ -9,4 +9,5 @@ cd calculadora
 npm i
 
  -- Executar o projeto
- npx 
+ npx expo start
+ npx expo start --android
